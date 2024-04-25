@@ -8,8 +8,7 @@ body {
 .order_online .layout_padding {
   padding: 90px 0;
 }
-
-.layout_padding2 {
+navbar-brand .layout_padding2 {
   padding: 75px 0;
 }
 
@@ -148,7 +147,7 @@ a:focus {
 
 .navbar-brand {
   font-family: "Dancing Script", cursive;
-  font-size: 32px;
+  font-size: 28px;
 }
 
 .navbar-brand span {
