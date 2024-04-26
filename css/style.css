@@ -147,7 +147,9 @@ a:focus {
 
 .navbar-brand {
   font-family: "Dancing Script", cursive;
-  font-size: 28px;
+  font-size: 32px;
+  text-align: center;
+  color: #ffffff;
 }
 
 .navbar-brand span {
