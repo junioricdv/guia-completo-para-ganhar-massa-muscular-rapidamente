@@ -115,6 +115,12 @@ a:focus {
   object-fit: cover;
 }
 
+.about-box {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+}
+
 .sub_page .hero_area {
   min-height: auto;
 }
